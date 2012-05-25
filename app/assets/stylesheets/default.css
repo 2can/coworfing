@@ -7,7 +7,7 @@
 
 body {
   background: #FCFCFC url("background.png") top left repeat-x;
-  padding: 40px 0 0;
+  /*padding: 40px 0 0;*/
   border-top: 3px solid #DDD;
 
 }
@@ -98,16 +98,6 @@ h3.hand{
 .form-actions {
   background-color: inherit;
   border-top: none;
-}
-
-.alert .close {
-  right: 40px;
-}
-
-.alert-block {
-  position: absolute;
-  top: 0px;
-  width: 100%;
 }
 
 .graded {
